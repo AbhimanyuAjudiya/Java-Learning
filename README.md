@@ -38,7 +38,7 @@ git commit -m "your valid commit message"
 ```sh
 git push -u origin main
 ```
-### "All the best for the event" ✨
 
+### "All the best for the event" ✨
 
 ### Show some ❤ by starring⭐ the repository.
