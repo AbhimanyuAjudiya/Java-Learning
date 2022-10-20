@@ -2,9 +2,12 @@
 
  Thank you for considering to contribute to this project.
  
+ 
  This document specifies the guidelines that you should follow when contributing to this project.
  
+ 
  Please adhere to the guidelines in order for your PR's to get approved.
+
 
 ### General Rules :
 These are general rules that you should  follow when contributing to an Open Source project :
