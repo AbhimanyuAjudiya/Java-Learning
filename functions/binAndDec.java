@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class binAndDec {
-
     public static void binToDec(int binNum) {
         int myNum = binNum;
         int decNum = 0;
@@ -14,7 +13,6 @@ public class binAndDec {
         }
         System.out.println("Decimal of "+ myNum +" = " + decNum);
     }
-
     public static void decToBin(int decNum) {
         int bin = 0;
         int pow = 0;
